@@ -1,0 +1,15 @@
+
+1. Choose Language
+2. Choose Password
+3. Choose Menu(
+                "Balans tekshirish",
+                "Naqt pul olish",
+                "SMS xabar ulash",
+                "Parolni o'zgartirish",
+                "Mobil aloqa uchun to'lov",
+                "Kredit to'lovlar",
+                "Komunal to'lovlar",
+                "Dasturdan chiqish",
+                )
+
+
